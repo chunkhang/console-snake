@@ -9,6 +9,8 @@ $ pip install console-snake
 $ snake
 ```
 
+![Snake](https://user-images.githubusercontent.com/12708862/34082102-2a051740-e393-11e7-8cbc-e3ae03bfbeee.gif)
+
 ## Unlicense
 
 ```
