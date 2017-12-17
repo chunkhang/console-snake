@@ -2,7 +2,7 @@
 
 > Snake for console
 
-My first attempt in doing [curses](https://docs.python.org/3/howto/curses.html) programming with Python. Because who needs GUI anyways? So, just install the game, and knock yourself out with the stunning graphics your terminal is ready to offer.
+This is my first attempt at doing [curses](https://docs.python.org/3/howto/curses.html) programming with Python, because who needs GUI anyways? So, just install the game, and knock yourself out with the stunning graphics your terminal is ready to offer.
 
 ```
 $ pip install console-snake
